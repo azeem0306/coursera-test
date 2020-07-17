@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.right {
+	position: relative;
+	left: 100px
+}
+.row {
+	width: 100%;
+
+}
+.section {
+	position: relative;
+	width: 100%;
+}
+.header {
+	float: right;
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+  clear: both;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  border: 1px solid black;
+}

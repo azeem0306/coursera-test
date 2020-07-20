@@ -1,0 +1,60 @@
+#header-nav {
+	background-color: #54df4f;
+	margin-bottom: 0px;
+}
+
+#header-name {
+	font-family: 'PT Serif', serif;
+	font-size: 30px;
+	color: #ff471a;
+	margin-top: 5px;
+
+}
+
+#topic1 {
+	font-family: 'PT Serif', serif;
+	color: blue;
+	margin-bottom: 30px;
+	font-weight: bold;
+}
+
+#section {
+	background-color: #b3b3b3;
+	padding: 5px 10px 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#chicken, #beef, #sushi {
+	font-family: 'PT Serif', serif;
+	color: #000;
+	font-weight: bold;
+}
+
+#menu-btn {
+	border-color: #54df4f;
+}
+
+#menu-btn:hover {
+	border-color: #54df4f;
+	background-color: #99ff99;
+}
+
+#menu {
+	border-top: 0px;
+	padding-top: 0px;
+}
+#list {
+	border-bottom:1px solid black;
+}
+
+#list> li {
+	border-top:1px solid black;
+	background-color: #54df4f;
+}
+
+#list >li:hover {
+	background-color: #99ff99;
+	border-top:1px solid black;
+	border-color: #000000;
+}
